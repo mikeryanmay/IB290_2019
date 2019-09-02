@@ -101,47 +101,47 @@ TBD
 
 * Students:
 * Reading:
-* Annotation bibliography:
+* Annotated bibliography:
 
 ### October 24: TBD
 
 * Students:
 * Reading:
-* Annotation bibliography:
+* Annotated bibliography:
 
 ### October 31: A spooky TBD
 
 * Students:
 * Reading:
-* Annotation bibliography:
+* Annotated bibliography:
 
 ### November 7: TBD
 
 * Students:
 * Reading:
-* Annotation bibliography:
+* Annotated bibliography:
 
 ### November 14: TBD
 
 * Students:
 * Reading:
-* Annotation bibliography:
+* Annotated bibliography:
 
 ### November 21: TBD
 
 * Students:
 * Reading:
-* Annotation bibliography:
+* Annotated bibliography:
 
 
 ### December 5: TBD
 
 * Students:
 * Reading:
-* Annotation bibliography:
+* Annotated bibliography:
 
 ### December 12: TBD
 
 * Students:
 * Reading:
-* Annotation bibliography:
+* Annotated bibliography:

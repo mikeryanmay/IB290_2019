@@ -16,6 +16,8 @@
 * John Huelsenbeck -- johnh@berkeley.edu
 * Mike May -- mrmay@berkeley.edu
 
+Testing
+
 ## Format
 
 The instructors will lead a series of introductory sessions (lectures) for the first four or five meetings. Subsequent meetings will be student-led. Each student will be responsible for leading at least one session (potentially more, depending on enrollment and interest) on a topic of their choice, in consultation with the instructors. That student will be responsible for developing an annotated bibliography of the important papers on the topic, including both “classics” and the most recent works, for selecting two or so of the papers for the class to read, and for preparing a short (15min) presentation on the topic. The remainder of the session will be devoted to discussion.

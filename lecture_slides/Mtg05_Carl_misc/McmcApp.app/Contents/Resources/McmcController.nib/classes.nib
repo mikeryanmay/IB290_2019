@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IBClasses</key>
+	<array>
+		<dict>
+			<key>ACTIONS</key>
+			<dict>
+				<key>changeDotSize</key>
+				<string>id</string>
+				<key>removePeak</key>
+				<string>id</string>
+			</dict>
+			<key>CLASS</key>
+			<string>ControllerPanel</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>OUTLETS</key>
+			<dict>
+				<key>burninSlider</key>
+				<string>NSSlider</string>
+				<key>dispayChainMenu1</key>
+				<string>NSMenuItem</string>
+				<key>dispayChainMenu2</key>
+				<string>NSMenuItem</string>
+				<key>dispayChainMenu3</key>
+				<string>NSMenuItem</string>
+				<key>dispayChainMenu4</key>
+				<string>NSMenuItem</string>
+				<key>dispayChainMenu5</key>
+				<string>NSMenuItem</string>
+				<key>dispayChainMenuAll</key>
+				<string>NSMenuItem</string>
+				<key>maxSizeLabel</key>
+				<string>NSTextField</string>
+				<key>minSizeLabel</key>
+				<string>NSTextField</string>
+				<key>numChainsStepper</key>
+				<string>NSStepper</string>
+				<key>peakController</key>
+				<string>NSArrayController</string>
+				<key>proposalSizeSlider</key>
+				<string>NSSlider</string>
+				<key>removePeakButton</key>
+				<string>NSButton</string>
+				<key>sizeLabel</key>
+				<string>NSTextField</string>
+			</dict>
+			<key>SUPERCLASS</key>
+			<string>NSWindowController</string>
+		</dict>
+		<dict>
+			<key>CLASS</key>
+			<string>FirstResponder</string>
+			<key>LANGUAGE</key>
+			<string>ObjC</string>
+			<key>SUPERCLASS</key>
+			<string>NSObject</string>
+		</dict>
+	</array>
+	<key>IBVersion</key>
+	<string>1</string>
+</dict>
+</plist>

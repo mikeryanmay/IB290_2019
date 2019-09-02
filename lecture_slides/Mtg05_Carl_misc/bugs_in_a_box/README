@@ -1,0 +1,13 @@
+Bugs in a Box
+=============
+
+The application bugs in a box was compiled using python 2.6, py2applet.
+Upon start it will take over the whole screen, ESC will quit out of it.
+Instructions on the options are given ath the bottom of the screen.
+
+Have fun
+Peter Beerli
+beerli@mac.com
+August 2011
+
+

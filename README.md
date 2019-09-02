@@ -91,23 +91,11 @@ Our first meeting will be on Thursday, September 5.
 * Reading:
 * Slides:
 
-<!-- * Uniform tree topologies
-* Coalescent trees
-* Birth-death processes and their application to:
-  * Divergence time estimation
-  * Diversification rate estimation
-* Slides: [Freyman Coalescent & Birth-Death Slides](https://wf8.github.io/IB290/lecture_slides/Mtg04_Freyman_Coalescent_Birth_Death_Trees.pdf) -->
 
 ### October 10: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
 
 TBD
 
-<!-- *Phylogenetics potpourri:*
-* Alignment
-* MCMC
-* bootstrapping
-* gene trees versus species tree
-* Slides: [Rothfels Phylo Potpourri](https://wf8.github.io/IB290/lecture_slides/Mtg05_Carl_misc/Mtg05_misc.ppt) -->
 
 ### October 17: TBD
 

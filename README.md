@@ -26,8 +26,6 @@ There are no formal texts required for this seminar, but participants are encour
 
 ## Useful Info
 
-<!-- TODO: update these links -->
-
 Here are some useful links on statistics and phylogenetic software: [https://mikeryanmay.github.io/IB290/useful](https://mikeryanmay.github.io/IB290/useful)
 
 ## Possible Topics for Student Led Discussions
@@ -49,6 +47,7 @@ Our first meeting will be on Thursday, September 5.
 * Discussion of topics to select for future class sessions
 * Reading: chapters 1, 2, and 3 of Tree Thinking
 * Slides:
+
 <!-- * Slides: [Rothfels Intro Slides](https://wf8.github.io/IB290/lecture_slides/Mtg01_intro.ppt) -->
 
 ### September 12: Introduction to probability theory
@@ -59,6 +58,7 @@ Our first meeting will be on Thursday, September 5.
 * MCMC
 * Reading:
 * Slides:
+
 <!-- * Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readings/2007_Diaconis.pdf) -->
 
 ### September 19: Introduction to tree inference and Markov models of character change
@@ -69,6 +69,7 @@ Our first meeting will be on Thursday, September 5.
 * Pruning algorithm
 * Reading:
 * Slides:
+
 <!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg02_Huelsenbeck_Likelihood_Phylo.pdf) -->
 
 ### September 26: Introduction to tree inference and Markov models of character change
@@ -78,6 +79,7 @@ Our first meeting will be on Thursday, September 5.
 * Substitution models
 * Reading:
 * Slides:
+
 <!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg03_Huelsenbeck_Likelihood_Phylo.pdf) -->
 
 ### October 3: Introduction to "tree models" and their uses
@@ -88,6 +90,7 @@ Our first meeting will be on Thursday, September 5.
   * Diversification rate estimation
 * Reading:
 * Slides:
+
 <!-- * Uniform tree topologies
 * Coalescent trees
 * Birth-death processes and their application to:

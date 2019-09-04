@@ -52,8 +52,8 @@ You should familiarize yourself a little with the basic ideas behind Bayesian ph
 We're a bit biased about what phylogenetic software you should use.
 Many different types of phylogenetic analyses can be performed directly in RevBayes and the tutorials explain the models and how to set them up.
 
-* [RevBayes Website](https://revbayes.com)
-* [RevBayes Tutorials](http://revbayes.github.io/tutorials.html)
+* [RevBayes Website](https://revbayes.github.io)
+* [RevBayes Tutorials](https://revbayes.github.io/tutorials/)
 
 ## Other Software
 
@@ -67,4 +67,3 @@ Here are some other programs that can be useful:
 	* Mac OSX: [Atom](https://atom.io/), [BBEdit](http://www.barebones.com/products/bbedit/), [Sublime Text](https://www.sublimetext.com/)
 	* Windows: [Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/)
 	* Linux: [Atom](https://atom.io/), [Geany](https://www.geany.org/), [Sublime Text](https://www.sublimetext.com/)
-

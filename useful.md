@@ -67,3 +67,7 @@ Here are some other programs that can be useful:
 	* Mac OSX: [Atom](https://atom.io/), [BBEdit](http://www.barebones.com/products/bbedit/), [Sublime Text](https://www.sublimetext.com/)
 	* Windows: [Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/), [Sublime Text](https://www.sublimetext.com/)
 	* Linux: [Atom](https://atom.io/), [Geany](https://www.geany.org/), [Sublime Text](https://www.sublimetext.com/)
+* Git GUIs
+	* [SourceTree](https://www.sourcetreeapp.com)
+	* [GitHub Desktop](https://desktop.github.com)
+	* [GitKraken](https://www.gitkraken.com)

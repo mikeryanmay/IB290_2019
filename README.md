@@ -49,7 +49,7 @@ Our first meeting will be on Thursday, September 5.
 * Discussion of topics to select for future class sessions
 * Introduction to Git
 * Reading: chapters 1, 2, and 3 of Tree Thinking
-* Slides:
+* Slides: [introduction to git](https://mikeryanmay.github.io/IB290/lecture_slides/git.pdf)
 
 <!-- * Slides: [Rothfels Intro Slides](https://wf8.github.io/IB290/lecture_slides/Mtg01_intro.ppt) -->
 

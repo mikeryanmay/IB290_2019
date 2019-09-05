@@ -34,6 +34,8 @@ Here are some useful links on statistics and phylogenetic software: [https://mik
 
 modeling migration/hybridization/introgression (phylogenetic networks); state-dependent diversification models; fossil data (e.g. fossilized-birth-death process/tip dating vs node calibrations); modeling gene duplication and loss; polymorphism-aware (PoMo) models; covarion/hidden state models; model testing (e.g. Bayes factors, AIC); model adequacy (e.g. posterior predictive tests); demographic inference (e.g., inferring population size changes through time); the multispecies coalescent, genetrees/species tree; the BAMM controversy; divergence time dating; inferring selection from sequence alignments; alignment inference (alignment-phylogeny co-inference?); community phylogenetics; spatial phylogenetics; inferring phylogenies from morphological data; heterogeneous models, e.g., non-stationary base frequencies; ancestral state reconstruction; phylogenomics (strengths, pitfalls?); inferring correlated evolution of traits; assessing support; hypothesis testing of relationships; reconstructing morphological evolution on a phylogeny; ABC approaches; hidden Markov models; mixture models; species delimitation; microbial community analysis; quartet-based methods (e.g. SVDquartets); etc; etc;
 
+When you have chosen a topic, update this README by following these instructions: [updating the course website](https://mikeryanmay.github.io/IB290/git_workflow)
+
 
 ## Schedule:
 
@@ -45,6 +47,7 @@ Our first meeting will be on Thursday, September 5.
 * Outline of the course
 * Outline of “phylogenetics”, i.e., introduction to trees—what is a phylogeny?—and tree thinking—what does this tree say?
 * Discussion of topics to select for future class sessions
+* Introduction to Git
 * Reading: chapters 1, 2, and 3 of Tree Thinking
 * Slides:
 

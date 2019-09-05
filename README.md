@@ -6,7 +6,7 @@
 * Grad Seminar 460
 * Class Number 67082
 * Fall, 2019
-* Thursdays 10:00 - 11:00 AM
+* Thursdays 10:10 - 11:00 AM (Berkeley time!!!)
 * 1002 VLSB
 * Class website: [https://mikeryanmay.github.io/IB290/](https://mikeryanmay.github.io/IB290/)
 

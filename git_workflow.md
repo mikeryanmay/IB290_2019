@@ -11,4 +11,4 @@
     - `git commit -m "including our papers"` to commit your edits to your local repository./
     - `git pull` to synchronize your local repository with the remote.
     - `git push` to synchronize the remote repository with your local repository.
-4. Repeat the above steps to include your annotated bibliography when it is complete. 
+4. Repeat the above steps to include your annotated bibliography and slides when they are complete. 

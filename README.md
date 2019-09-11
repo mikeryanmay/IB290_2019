@@ -59,8 +59,7 @@ Our first meeting will be on Thursday, September 5.
 * Maximum likelihood
 * Bayesian estimation
 * MCMC
-* Reading:
-* Slides:
+* Reading: [Coin Tossing - Diaconis et al 2007](https://mikeryanmay.github.io/IB290/readings/2007_Diaconis.pdf)
 
 <!-- * Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readings/2007_Diaconis.pdf) -->
 

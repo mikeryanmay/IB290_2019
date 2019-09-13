@@ -70,7 +70,7 @@ Our first meeting will be on Thursday, September 5.
 * What is a Markov model?
 * Properties and uses of Markov models
 * Pruning algorithm
-* Reading:
+* Reading: [Coin Tossing - Diaconis et al 2007](https://mikeryanmay.github.io/IB290/readings/2007_Diaconis.pdf)
 * Slides:
 
 <!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg02_Huelsenbeck_Likelihood_Phylo.pdf) -->

@@ -56,9 +56,10 @@ Our first meeting will be on Thursday, September 5.
 ### September 12: Introduction to probability theory
 
 *Introduction to probability, estimation, and inference:*
-* Maximum likelihood
+* Introduction to probability and inference (on the whiteboard).
+<!-- * Maximum likelihood
 * Bayesian estimation
-* MCMC
+* MCMC -->
 * Reading: [Coin Tossing - Diaconis et al 2007](https://mikeryanmay.github.io/IB290/readings/2007_Diaconis.pdf)
 
 <!-- * Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readings/2007_Diaconis.pdf) -->

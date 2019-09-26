@@ -30,12 +30,9 @@ Here are some useful links on statistics and phylogenetic software: [https://mik
 
 ## Possible Topics for Student Led Discussions
 
-*Please consult an instructor before settling on a topic:*
+Possible topics include (but are _not limited to_): modeling migration/hybridization/introgression (phylogenetic networks); state-dependent diversification models; fossil data (e.g. fossilized-birth-death process/tip dating vs node calibrations); modeling gene duplication and loss; polymorphism-aware (PoMo) models; covarion/hidden state models; model testing (e.g. Bayes factors, AIC); model adequacy (e.g. posterior predictive tests); demographic inference (e.g., inferring population size changes through time); the multispecies coalescent, genetrees/species tree; the BAMM controversy; divergence time dating; inferring selection from sequence alignments; alignment inference (alignment-phylogeny co-inference?); community phylogenetics; spatial phylogenetics; inferring phylogenies from morphological data; heterogeneous models, e.g., non-stationary base frequencies; ancestral state reconstruction; phylogenomics (strengths, pitfalls?); inferring correlated evolution of traits; assessing support; hypothesis testing of relationships; reconstructing morphological evolution on a phylogeny; ABC approaches; hidden Markov models; mixture models; species delimitation; microbial community analysis; quartet-based methods (e.g. SVDquartets); etc.
 
-modeling migration/hybridization/introgression (phylogenetic networks); state-dependent diversification models; fossil data (e.g. fossilized-birth-death process/tip dating vs node calibrations); modeling gene duplication and loss; polymorphism-aware (PoMo) models; covarion/hidden state models; model testing (e.g. Bayes factors, AIC); model adequacy (e.g. posterior predictive tests); demographic inference (e.g., inferring population size changes through time); the multispecies coalescent, genetrees/species tree; the BAMM controversy; divergence time dating; inferring selection from sequence alignments; alignment inference (alignment-phylogeny co-inference?); community phylogenetics; spatial phylogenetics; inferring phylogenies from morphological data; heterogeneous models, e.g., non-stationary base frequencies; ancestral state reconstruction; phylogenomics (strengths, pitfalls?); inferring correlated evolution of traits; assessing support; hypothesis testing of relationships; reconstructing morphological evolution on a phylogeny; ABC approaches; hidden Markov models; mixture models; species delimitation; microbial community analysis; quartet-based methods (e.g. SVDquartets); etc; etc;
-
-When you have chosen a topic, update this README by following these instructions: [updating the course website](https://mikeryanmay.github.io/IB290/git_workflow)
-
+Please sign up for a topic at [this google sheet](https://docs.google.com/spreadsheets/d/1NO0to-26p4oEMG6dpgEWpOWcJRHIVJgSL_brp_LjLeI/edit?usp=sharing). *Please consult an instructor before settling on a topic.* When you have chosen a topic and schedule a week to lead, update this README by following these instructions: [updating the course website](https://mikeryanmay.github.io/IB290/git_workflow).
 
 ## Schedule:
 
@@ -85,15 +82,9 @@ Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readin
 
 <!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg03_Huelsenbeck_Likelihood_Phylo.pdf) -->
 
-### October 3: Introduction to "tree models" and their uses
+### October 3: Introduction to tree inference and Markov chain Monte Carlo
 
-*Introduction to models of tree shape, topology, and branch lengths:*
-* Branching-process models and their application to:
-  * Divergence time estimation
-  * Diversification rate estimation
-* Reading:
-* Slides:
-
+TBD
 
 ### October 10: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
 

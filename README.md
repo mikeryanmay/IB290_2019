@@ -69,8 +69,7 @@ Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readin
 * What is a Markov model?
 * Properties and uses of Markov models
 * Pruning algorithm
-* Reading:
-* Slides:
+* Slides: [Likelihood-based phylogenetic inference](https://mikeryanmay.github.io/IB290/lecture_slides/likelihood.pdf)
 
 <!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg02_Huelsenbeck_Likelihood_Phylo.pdf) -->
 
@@ -78,9 +77,8 @@ Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readin
 
 *Introduction to the application of Markov models to tree inference (Part 2):*
 * More on Markov models
-* Substitution models
-* Reading:
-* Slides:
+* More about substitution models
+* Slides: [Likelihood-based phylogenetic inference](https://mikeryanmay.github.io/IB290/lecture_slides/likelihood.pdf)
 
 <!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg03_Huelsenbeck_Likelihood_Phylo.pdf) -->
 
@@ -89,7 +87,6 @@ Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readin
 No power!
 
 ### October 10:  Introduction to tree inference and Markov chain Monte Carlo
-
 
 
 ### October 17: TBD

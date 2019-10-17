@@ -34,6 +34,8 @@ Possible topics include (but are _not limited to_): modeling migration/hybridiza
 
 Please sign up for a topic at [this google sheet](https://docs.google.com/spreadsheets/d/1NO0to-26p4oEMG6dpgEWpOWcJRHIVJgSL_brp_LjLeI/edit?usp=sharing). *Please consult an instructor before settling on a topic.* When you have chosen a topic and schedule a week to lead, update this README by following these instructions: [updating the course website](https://mikeryanmay.github.io/IB290/git_workflow).
 
+See the [2017 course website](https://wf8.github.io/IB290/) or the [github repository](https://mikeryanmay.github.io/IB290/2017_files) for examples of reading lists and annotated bibliographies.
+
 ## Schedule:
 
 Our first meeting will be on Thursday, September 5.
@@ -67,7 +69,7 @@ Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readin
 * What is a Markov model?
 * Properties and uses of Markov models
 * Pruning algorithm
-* Reading: [Coin Tossing - Diaconis et al 2007](https://mikeryanmay.github.io/IB290/readings/2007_Diaconis.pdf)
+* Reading:
 * Slides:
 
 <!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg02_Huelsenbeck_Likelihood_Phylo.pdf) -->
@@ -84,11 +86,10 @@ Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readin
 
 ### October 3: Introduction to tree inference and Markov chain Monte Carlo
 
-TBD
+No power!
 
-### October 10: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
+### October 10:  Introduction to tree inference and Markov chain Monte Carlo
 
-TBD
 
 
 ### October 17: TBD

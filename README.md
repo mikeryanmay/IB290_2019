@@ -97,9 +97,12 @@ No power!
 
 ### October 24: TBD
 
-* Students:
-* Reading:
+* Students: Jenna & Sonia
+* Reading: 
+(1) Nakhleh, L. "Computational approaches to species phylogeny inference and gene tree reconciliation." Trends in Ecology and Evolution, 28:112 (2013). (https://www.sciencedirect.com/science/article/pii/S0169534713002139)
+(2) Liu, Y. et al. "Resolution of the ordinal phylogeny of mosses using targeted exons from organellar and nuclear genomes." Nature Communications 20:2485 (2019). (https://www.nature.com/articles/s41467-019-09454-w)
 * Annotated bibliography:
+
 
 ### October 31: A spooky TBD
 

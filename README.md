@@ -105,7 +105,7 @@ No power!
 	1. De Queiroz, K. 2007. Species concepts and species delimitation. Systematic Biology 56: 879–886. [LINK to PDF](https://github.com/mikeryanmay/IB290/tree/master/readings/Oct31/)
 	2. Yang, Z., and B. Rannala. 2014. Unguided Species Delimitation Using DNA Sequence Data from Multiple Loci. Molecular Biology and Evolution 31: 3125–3135. [LINK to PDF](https://github.com/mikeryanmay/IB290/tree/master/readings/Oct31/)
 	3. Leache, A.D., T. Zhu, B. Rannala, and Z. Yang. 2019. The Spectre of Too Many Species. Systematic Biology 68: 168–181. [LINK to PDF](https://github.com/mikeryanmay/IB290/tree/master/readings/Oct31/)
-* Annotated bibliography:
+* Annotated bibliography: [LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/speciestreeinference_msc.pdf)
 
 ### November 7: TBD
 

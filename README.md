@@ -56,12 +56,6 @@ Our first meeting will be on Thursday, September 5.
 
 *Introduction to probability, estimation, and inference:*
 * Introduction to probability and inference (on the whiteboard).
-* Reading: [Coin Tossing - Diaconis et al 2007](https://mikeryanmay.github.io/IB290/readings/2007_Diaconis.pdf)
-
-<!-- * Maximum likelihood
-* Bayesian estimation
-* MCMC
-Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readings/2007_Diaconis.pdf) -->
 
 ### September 19: Introduction to tree inference and Markov models of character change
 
@@ -71,8 +65,6 @@ Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readin
 * Pruning algorithm
 * Slides: [Likelihood-based phylogenetic inference](https://mikeryanmay.github.io/IB290/lecture_slides/likelihood.pdf)
 
-<!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg02_Huelsenbeck_Likelihood_Phylo.pdf) -->
-
 ### September 26: Introduction to tree inference and Markov models of character change
 
 *Introduction to the application of Markov models to tree inference (Part 2):*
@@ -80,13 +72,15 @@ Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readin
 * More about substitution models
 * Slides: [Likelihood-based phylogenetic inference](https://mikeryanmay.github.io/IB290/lecture_slides/likelihood.pdf)
 
-<!-- * Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg03_Huelsenbeck_Likelihood_Phylo.pdf) -->
 
-### October 3: Introduction to tree inference and Markov chain Monte Carlo
+### October 3: Introduction to tree inference and Markov models of character change
 
 No power!
 
-### October 10:  Introduction to tree inference and Markov chain Monte Carlo
+### October 10:  Introduction to tree inference and Markov models of character change
+* More on Markov models
+* More about substitution models
+* Slides: [Likelihood-based phylogenetic inference](https://mikeryanmay.github.io/IB290/lecture_slides/likelihood.pdf)
 
 
 ### October 17: TBD
@@ -115,15 +109,21 @@ No power!
 
 ### November 7: TBD
 
-* Students:
+* Students: Jackie
 * Reading:
-* Annotated bibliography:
+	1. Schluter, D., Price, T., Mooers, A. Ø., & Ludwig, D. (1997). Likelihood of ancestor states in adaptive radiation. Evolution, 51(6), 1699-1711. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov7/)
+	2. Joy, J. B., Liang, R. H., McCloskey, R. M., Nguyen, T., & Poon, A. F. (2016). Ancestral reconstruction. PLoS computational biology, 12(7), e1004763. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov7/)
+	3. Olsen, A. M. (2015). Exceptional avian herbivores: multiple transitions toward herbivory in the bird order Anseriformes and its correlation with body mass. Ecology and Evolution, 5(21), 5016-5032. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov7/)
+* Annotated bibliography: [LINK]([LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/Ancestralstatereconstruction.pdf))
 
 ### November 14: TBD
 
-* Students:
+* Students: Jenn and Ben
 * Reading:
-* Annotated bibliography:
+	1. Quental, T. B., & Marshall, C. R. (2010). Diversity dynamics: molecular phylogenies need the fossil record. Trends in Ecology & Evolution, 25(8), 434-441. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov14/)
+	2. Heath, T. A., Huelsenbeck, J. P., & Stadler, T. (2014). The fossilized birth–death process for coherent calibration of divergence-time estimates. Proceedings of the National Academy of Sciences, 111(29), E2957-E2966. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov14/)
+	3. O’Reilly, J. E., Dos Reis, M., & Donoghue, P. C. (2015). Dating tips for divergence-time estimation. Trends in Genetics, 31(11), 637-650. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov14/)
+* Annotated bibliography: [LINK]([LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/Age_FBD-Wagner_Muddiman.pdf))
 
 ### November 21: TBD
 

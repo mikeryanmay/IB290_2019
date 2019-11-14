@@ -114,7 +114,7 @@ No power!
 	1. Schluter, D., Price, T., Mooers, A. Ø., & Ludwig, D. (1997). Likelihood of ancestor states in adaptive radiation. Evolution, 51(6), 1699-1711. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov7/)
 	2. Joy, J. B., Liang, R. H., McCloskey, R. M., Nguyen, T., & Poon, A. F. (2016). Ancestral reconstruction. PLoS computational biology, 12(7), e1004763. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov7/)
 	3. Olsen, A. M. (2015). Exceptional avian herbivores: multiple transitions toward herbivory in the bird order Anseriformes and its correlation with body mass. Ecology and Evolution, 5(21), 5016-5032. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov7/)
-* Annotated bibliography: [LINK]([LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/Ancestralstatereconstruction.pdf))
+* Annotated bibliography: [LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/Ancestralstatereconstruction.pdf)
 
 ### November 14: TBD
 
@@ -123,7 +123,7 @@ No power!
 	1. Quental, T. B., & Marshall, C. R. (2010). Diversity dynamics: molecular phylogenies need the fossil record. Trends in Ecology & Evolution, 25(8), 434-441. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov14/)
 	2. Heath, T. A., Huelsenbeck, J. P., & Stadler, T. (2014). The fossilized birth–death process for coherent calibration of divergence-time estimates. Proceedings of the National Academy of Sciences, 111(29), E2957-E2966. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov14/)
 	3. O’Reilly, J. E., Dos Reis, M., & Donoghue, P. C. (2015). Dating tips for divergence-time estimation. Trends in Genetics, 31(11), 637-650. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov14/)
-* Annotated bibliography: [LINK]([LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/Age_FBD-Wagner_Muddiman.pdf))
+* Annotated bibliography: [LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/Age_FBD-Wagner_Muddiman.pdf)
 
 ### November 21: TBD
 

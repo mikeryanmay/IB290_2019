@@ -125,10 +125,13 @@ No power!
 	3. O’Reilly, J. E., Dos Reis, M., & Donoghue, P. C. (2015). Dating tips for divergence-time estimation. Trends in Genetics, 31(11), 637-650. [LINK](https://github.com/mikeryanmay/IB290/tree/master/readings/Nov14/)
 * Annotated bibliography: [LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/Age_FBD-Wagner_Muddiman.pdf)
 
-### November 21: TBD
+### November 21: Fossils in Biogeographic Inference
 
-* Students:
+* Students: Reilly and Jaemin
 * Reading:
+	1.Ree, R.H., and Smith, S.A., 2008, Maximum likelihood inference of geographic range evolution by dispersal, local extinction, and cladogenesis: Systematic Biology, v. 57, p. 4-14. doi: 10.1080/10635150701883881. [LINK](https://github.com/mikeryanmay/IB290/blob/master/readings/Nov21/Ree_and_Smith_2008_ML-inference-of-geographic-range-evolution.pdf)
+	2. Matzke, N.J., 2013, Chapter Four: Incorporation of fossils in likelihood analyses of historical biogeography using models for imperfect detection, in Probabilistic historical biogeography: new models for founder-event speciation, imperfect detection, and fossils allow improved accuracy and model testing [Ph.D. thesis]: Berkeley, University of California, 240 p. [LINK](https://github.com/mikeryanmay/IB290/blob/master/readings/Nov21/Matzke_2013_Probabilistic-Historical-Biogeography.pdf)
+	3. Silvestro, B., Zizka, A., Bacon, C.D., Cascales-Miñana, B., Salamin, N., and Antonelli, A., 2016, Fossil biogeography: a new model to infer dispersal, extinction, and sampling from paleontological data: Phil. Trans. R. Soc. B 371, 20150225. doi: 10.1098/rstb.2015.0225. [LINK](https://github.com/mikeryanmay/IB290/blob/master/readings/Nov21/Silvestro_et_al_2016_Fossil_biogeography.pdf)
 * Annotated bibliography:
 
 

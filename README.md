@@ -135,10 +135,14 @@ No power!
 * Annotated bibliography: [LINK](https://github.com/mikeryanmay/IB290/tree/master/bibliographies/fossil_biogeography_annotated_bibliography.pdf)
 
 
-### December 5: TBD
+### December 5: Allopolyploid phylogenetics
 
-* Students:
-* Reading:
+* Students: Shirley Zhang, Keir Wefferling and Ixchel Gonzalez-Ramirez
+* Readings:
+	1. Jones, G. R. (2017). Bayesian phylogenetic analysis for diploid and allotetraploid species networks. BioRxiv, 129361 
+	2. Oxelman, B., Brysting, A. K., Jones, G. R., Marcussen, T., Oberprieler, C., & Pfeil, B. E. (2017). Phylogenetics of allopolyploids. Annual Review of Ecology, Evolution, and Systematics, 48, 543–557 
+	3.Wen, D., Yu, Y., & Nakhleh, L. (2016). Bayesian inference of reticulate phylogenies under the multispecies network coalescent. PLoS genetics, 12(5), e1006006. 
+
 * Annotated bibliography:
 
 ### December 12: TBD

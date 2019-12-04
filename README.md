@@ -139,10 +139,9 @@ No power!
 
 * Students: Shirley Zhang, Keir Wefferling and Ixchel Gonzalez-Ramirez
 * Readings:
-	1. Jones, G. R. (2017). Bayesian phylogenetic analysis for diploid and allotetraploid species networks. BioRxiv, 129361 
-	2. Oxelman, B., Brysting, A. K., Jones, G. R., Marcussen, T., Oberprieler, C., & Pfeil, B. E. (2017). Phylogenetics of allopolyploids. Annual Review of Ecology, Evolution, and Systematics, 48, 543–557 
-	3.Wen, D., Yu, Y., & Nakhleh, L. (2016). Bayesian inference of reticulate phylogenies under the multispecies network coalescent. PLoS genetics, 12(5), e1006006. 
-
+	1. Jones, G. R. (2017). Bayesian phylogenetic analysis for diploid and allotetraploid species networks. BioRxiv, 129361 [LINK](https://github.com/mikeryanmay/IB290/blob/master/readings/Dec5/Jones_2017.pdf)
+	2. Oxelman, B., Brysting, A. K., Jones, G. R., Marcussen, T., Oberprieler, C., & Pfeil, B. E. (2017). Phylogenetics of allopolyploids. Annual Review of Ecology, Evolution, and Systematics, 48, 543–557 [LINK](https://github.com/mikeryanmay/IB290/blob/master/readings/Dec5/Oxelman_2017.pdf)
+	3. Wen, D., Yu, Y., & Nakhleh, L. (2016). Bayesian inference of reticulate phylogenies under the multispecies network coalescent. PLoS genetics, 12(5), e1006006. [LINK](https://github.com/mikeryanmay/IB290/blob/master/readings/Dec5/Wen2016.pdf)
 * Annotated bibliography:
 
 ### December 12: TBD
